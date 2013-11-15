@@ -1,0 +1,11 @@
+C:\Users\Tonny\Documents\c#\menu bakso\menu bakso\bin\Debug\menu bakso.exe
+C:\Users\Tonny\Documents\c#\menu bakso\menu bakso\bin\Debug\menu bakso.pdb
+C:\Users\Tonny\Documents\c#\menu bakso\menu bakso\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tonny\Documents\c#\menu bakso\menu bakso\obj\x86\Debug\menu bakso.exe
+C:\Users\Tonny\Documents\c#\menu bakso\menu bakso\obj\x86\Debug\menu bakso.pdb
+D:\menu bakso\menu bakso\obj\x86\Debug\menu bakso.exe
+D:\menu bakso\menu bakso\obj\x86\Debug\menu bakso.pdb
+E:\menu bakso\menu bakso\obj\x86\Debug\menu bakso.exe
+E:\menu bakso\menu bakso\obj\x86\Debug\menu bakso.pdb
+E:\DOCUMENTS\KULIAH\Kumpulan Tugas dan Materi\Pemrograman Lanjut\menu bakso\menu bakso\obj\x86\Debug\menu bakso.exe
+E:\DOCUMENTS\KULIAH\Kumpulan Tugas dan Materi\Pemrograman Lanjut\menu bakso\menu bakso\obj\x86\Debug\menu bakso.pdb
