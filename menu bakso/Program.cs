@@ -30,7 +30,7 @@ namespace ConsoleApplication1
                 System.Console.WriteLine("                           1. Input Data Pembeli  ");
                 System.Console.WriteLine("                           2. Input Pesanan Bakso ");
                 System.Console.WriteLine("                           3. Pembayaran Pesanan  ");
-                System.Console.WriteLine("                           4. Keluar              ");
+                System.Console.WriteLine("                           4. Keluar kelessss              ");
                 System.Console.WriteLine("                          ========================");
                 System.Console.Write("                           pilihan anda:       ");
                 pil = Console.ReadLine();
